@@ -186,8 +186,42 @@
       <Install>true</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="Resources\" />
+    <None Include="Resources\coca-cola1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guarana1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\jelen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\juice2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisela1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_nektar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEKTAR JAGODA 0.2L-500x5001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview-Heineken291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\redBull1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tuborg2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vodka1.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

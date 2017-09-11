@@ -393,6 +393,7 @@
             // 
             // Kisela_voda
             // 
+            this.Kisela_voda.BackgroundImage = global::Startni.Properties.Resources.kisela;
             this.Kisela_voda.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Kisela_voda.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Kisela_voda.Location = new System.Drawing.Point(347, 440);
@@ -406,6 +407,7 @@
             // 
             // Vodka
             // 
+            this.Vodka.BackgroundImage = global::Startni.Properties.Resources.vodka;
             this.Vodka.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Vodka.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Vodka.Location = new System.Drawing.Point(237, 335);
@@ -418,6 +420,7 @@
             // 
             // Jagoda
             // 
+            this.Jagoda.BackgroundImage = global::Startni.Properties.Resources.NEKTAR_JAGODA_0_2L_500x500;
             this.Jagoda.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Jagoda.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Jagoda.Location = new System.Drawing.Point(15, 441);
@@ -431,6 +434,7 @@
             // 
             // Juice
             // 
+            this.Juice.BackgroundImage = global::Startni.Properties.Resources.juice;
             this.Juice.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Juice.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Juice.Location = new System.Drawing.Point(237, 441);
@@ -444,6 +448,7 @@
             // 
             // Guarana
             // 
+            this.Guarana.BackgroundImage = global::Startni.Properties.Resources.guarana;
             this.Guarana.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Guarana.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Guarana.Location = new System.Drawing.Point(129, 333);
@@ -456,6 +461,7 @@
             // 
             // Nektar
             // 
+            this.Nektar.BackgroundImage = global::Startni.Properties.Resources.logo_nektar;
             this.Nektar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Nektar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Nektar.Location = new System.Drawing.Point(237, 123);
@@ -468,6 +474,7 @@
             // 
             // Coca_cola
             // 
+            this.Coca_cola.BackgroundImage = global::Startni.Properties.Resources.coca_cola;
             this.Coca_cola.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Coca_cola.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Coca_cola.Location = new System.Drawing.Point(129, 440);
@@ -480,6 +487,7 @@
             // 
             // Heineken
             // 
+            this.Heineken.BackgroundImage = global::Startni.Properties.Resources.preview_Heineken29;
             this.Heineken.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Heineken.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Heineken.Location = new System.Drawing.Point(127, 123);
@@ -492,6 +500,7 @@
             // 
             // red_bull
             // 
+            this.red_bull.BackgroundImage = global::Startni.Properties.Resources.redBull;
             this.red_bull.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.red_bull.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.red_bull.Location = new System.Drawing.Point(17, 334);
@@ -504,6 +513,7 @@
             // 
             // Jelen
             // 
+            this.Jelen.BackgroundImage = global::Startni.Properties.Resources.jelen;
             this.Jelen.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Jelen.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Jelen.Location = new System.Drawing.Point(347, 122);
@@ -516,6 +526,7 @@
             // 
             // Tuborg
             // 
+            this.Tuborg.BackgroundImage = global::Startni.Properties.Resources.Tuborg;
             this.Tuborg.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.Tuborg.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.Tuborg.Location = new System.Drawing.Point(15, 123);
