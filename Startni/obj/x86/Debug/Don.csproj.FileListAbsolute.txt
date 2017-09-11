@@ -1,0 +1,15 @@
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\bin\Debug\Startni.exe.config
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.currerentStatus.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.DodatneOpcije.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.EnterPass.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.PocetnaForma.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.Prijava.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Startni.Properties.Resources.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.csproj.GenerateResource.Cache
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\bin\Debug\Startni.exe
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\bin\Debug\Startni.pdb
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Startni.exe
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Startni.pdb
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\obj\x86\Debug\Don.Stanje.resources
+C:\Users\xxx\Documents\Visual Studio 2010\Projects\Disco Bar Don\Startni\bin\Debug\System.Data.SqlServerCe.dll

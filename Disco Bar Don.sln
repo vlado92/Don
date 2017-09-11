@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Don", "Startni\Don.csproj", "{2C721215-563A-43B5-A3E1-0ED9DA392D46}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalacija", "Instalacija\Instalacija.vdproj", "{A7B9F1A3-8BFC-45B4-9B71-DF0344035B21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C721215-563A-43B5-A3E1-0ED9DA392D46}.Debug|x86.ActiveCfg = Debug|x86
+		{2C721215-563A-43B5-A3E1-0ED9DA392D46}.Debug|x86.Build.0 = Debug|x86
+		{2C721215-563A-43B5-A3E1-0ED9DA392D46}.Release|x86.ActiveCfg = Release|x86
+		{2C721215-563A-43B5-A3E1-0ED9DA392D46}.Release|x86.Build.0 = Release|x86
+		{A7B9F1A3-8BFC-45B4-9B71-DF0344035B21}.Debug|x86.ActiveCfg = Debug
+		{A7B9F1A3-8BFC-45B4-9B71-DF0344035B21}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

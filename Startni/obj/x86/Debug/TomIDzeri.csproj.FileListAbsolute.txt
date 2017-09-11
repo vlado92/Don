@@ -1,0 +1,14 @@
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.Properties.Resources.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.csproj.GenerateResource.Cache
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\bin\Debug\TomIDzeri.exe
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\bin\Debug\TomIDzeri.pdb
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.exe
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.pdb
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.currerentStatus.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.DodatneOpcije.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.EnterPass.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.PocetnaForma.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.Prijava.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\obj\x86\Debug\TomIDzeri.Stanje.resources
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\bin\Debug\DonBaza.sdf
+c:\users\xxx\documents\visual studio 2010\Projects\TomIDzeri\TomIDzeri\bin\Debug\TomIDzeri.exe.config
